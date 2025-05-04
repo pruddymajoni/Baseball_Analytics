@@ -34,4 +34,7 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
 
 Result : Reject the Ho hypothesis and conclude that at the 95% confidence level, there is enough evidence to conclude that Position*Team significantly affects the Salary a player receives. 
 
+![image_alt](https://github.com/pruddymajoni/Baseball_Analytics/blob/05894c6a6e439151e25cf8db14885f2c227f7924/Baseball/Hist.png)
+
+
 
