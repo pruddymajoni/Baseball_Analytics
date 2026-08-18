@@ -44,5 +44,9 @@ Result : Reject the Ho hypothesis and conclude that at the 95% confidence level,
 
 ![image_alt](https://github.com/pruddymajoni/Baseball_Analytics/blob/05894c6a6e439151e25cf8db14885f2c227f7924/Baseball/Hist.png)
 
+# Tukey HSD
 
+![image_alt](https://github.com/pruddymajoni/Baseball_Analytics/blob/main/Baseball/Tukey.png?raw=true)
+
+The ANOVA indicated a statistically significant effect of position on the response variable, F(7, 662) = 7.184, p < 0.001. Tukey's HSD post-hoc analysis was subsequently used to identify which pairs of positions differed significantly. Comparisons whose 95% confidence intervals did not cross zero indicated statistically significant differences between position means.
 
