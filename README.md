@@ -7,6 +7,12 @@ The data set contains three columns, i.e. Team/Location(categorical), Position(C
 # Data Insights
 From the Baseball Salaries Data set, we can deduce how Position affects the mean Salary of a Baseball Player. We can also use an interaction variable of Position and Team to conclude whether the two make a difference in comparion to just using Position. 
 
+
+# Visualizations
+
+![image_alt](<img width="1020" height="812" alt="image" src="https://github.com/user-attachments/assets/9975b4aa-c6e9-40c5-984b-8c144bbe5d70" />)
+
+
 # 1. ANOVA  : Position vs Salary
 Ho : Position has no effect on Salary. 
 Ha : Position significantly affects Salary. 
