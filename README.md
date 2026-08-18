@@ -10,7 +10,7 @@ From the Baseball Salaries Data set, we can deduce how Position affects the mean
 
 # Visualizations
 
-![image_alt]((https://github.com/pruddymajoni/Baseball_Analytics/blob/main/Baseball/salary%20by%20position.png?raw=true))
+![image_alt](https://github.com/pruddymajoni/Baseball_Analytics/blob/main/Baseball/salary%20by%20position.png?raw=true)
 
 
 # 1. ANOVA  : Position vs Salary
